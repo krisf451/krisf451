@@ -23,7 +23,7 @@
 
 <h2 align='center'>My Tools...</h2>
 
-<h2 align='center'>Communication:</h2>
+<p align='center' fontSize='24px'>Communication:</p>
 <p align='center'>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
