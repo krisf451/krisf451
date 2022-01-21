@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript badge"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react badge"/>
-  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby badge"/>
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json json badge"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react router badge"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux badge"/>
@@ -82,7 +81,7 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 <p>
-  Career Readiness, Computer Science, Project Design and Project Time Management
+  NextJs, Tailwind CSS, Datastructures and Algorithms, Career Readiness,Project Design and Project Time Management
 </p>
 
 <h2>👯 I’m looking to collaborate on ...</h2>
@@ -95,15 +94,15 @@
   Click on one of the badges below!
 </p>
 <p>
-  <a href="https://www.linkedin.com/in/erikbahena/" target="_blank">
+  <a href="https://www.linkedin.com/in/kristianfulkerson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
   </a>  
   
-  <a href="mailto:erikjbahena@gmail.com" target="_blank">
+  <a href="mailto:kristianf451@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
   </a>
   
-  <a href="tel:360-843-5566" target="_blank">
+  <a href="tel:951-227-3742" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
   </a>  
 </p>
