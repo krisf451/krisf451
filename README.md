@@ -23,7 +23,7 @@
 
 <h2 align='center'>My Tools...</h2>
 
-### Communication:
+<h3 align='center'>Communication:</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
@@ -87,11 +87,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge"/>
 </p>
 
-## My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisf451&layout=compact)](https://github.com/krisf451/github-readme-stats)
- 
-![Eriks's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisf451&show_icons=true&theme=dark)
-
 <h2 align='center'>🌱 I’m currently learning ...</h2>
 <p align='center'>
   NextJs, Tailwind CSS, Datastructures and Algorithms, Career Readiness,Project Design and Project Time Management
@@ -120,4 +115,6 @@
   </a>  
 </p>
 
-<p align='center'>![Visitors](https://visitor-badge.glitch.me/badge?page_id=krisf451&left_color=blue&right_color=black)</p>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/kris451/krisf451"></a> hipsters and nerds have come here o/
+</p>
