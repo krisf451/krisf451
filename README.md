@@ -99,5 +99,5 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=krisf451&left_color=blue&right_color=black"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=krisf451&left_color=blue&right_color=black"></a> Recognize Real
 </p>
