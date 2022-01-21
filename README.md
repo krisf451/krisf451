@@ -18,8 +18,8 @@
 
 <h2 align='center'>🔭 I’m currently working on ...</h2>
 
-<p align='center'>A fullstack Workout Tracker application using react and nodejs</p>
-<p align='center'>A hosted backend for an eventual Home Inventory Application using postgreSQL</p>
+<p align='center'>A fullstack workout tracker application using react and nodejs</p>
+<p align='center'>A database for a home inventory application using postgreSQL</p>
 
 <h2 align='center'>My Tools...</h2>
 
@@ -52,39 +52,22 @@
   <img src="https://knexjs.org/assets/images/knex.png" alt="knex badge" height="35px" width="max-content"/>
 </p>
 
-<p align='center'>Testing Libraries:</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress badge"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Cypress badge"/>
-  
-</p>
-
-<p align='center'>Component Libraries:</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI badge"/>
-</p>
-
-<p align='center'>Package Management:</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"/>
-</p>
-
-<p align='center'>Code Management:</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git badge"/>
-</p>
-
-<p align='center'>Operating Systems:</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="mac os badge"/>
-</p>
-
 <p align='center'>Deployment:</p>
 <p align='center'>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku badge"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify badge"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge"/>
+</p>
+
+<p align='center'>Additional:</p>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress badge"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Cypress badge"/>
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI badge"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git badge"/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="mac os badge"/>
 </p>
 
 <h2 align='center'>🌱 I’m currently learning ...</h2>
