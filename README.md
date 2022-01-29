@@ -68,11 +68,14 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git badge"/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="mac os badge"/>
+  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier"/>
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="Eslint"/>
+  
 </p>
 
 <h2 align='center'>🌱 I’m currently learning ...</h2>
 <p align='center'>
-  NextJs, Tailwind CSS, Datastructures and Algorithms, Career Readiness, Project Design and Project Time Management
+  NextJs, Tailwind CSS, Data structures and Algorithms, Project Design and the MERN stack
 </p>
 
 <h2 align='center'>👯 I’m looking to collaborate on ...</h2>
