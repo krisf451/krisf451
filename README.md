@@ -91,11 +91,7 @@
   
   <a href="mailto:kristianf451@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
-  </a>
-  
-  <a href="tel:951-227-3742" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
-  </a>  
+  </a> 
 </p>
 
 <p align='center'>
