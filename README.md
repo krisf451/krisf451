@@ -81,8 +81,10 @@
 
 <h2>👯 I’m looking to collaborate on ...</h2>
 <p>
-  Open Source Projects, web3 or blockchain stuff, anything really. Always trying to learn more.
+  Open Source Projects, anything related to web3 or the blockchain
 </p>
+
+<h2 align='center'>Contact Me</h2>
 <p align='center'>
   <a href="https://www.linkedin.com/in/kristianfulkerson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
