@@ -81,7 +81,7 @@
 
 <h2>👯 I’m looking to collaborate on ...</h2>
 <p>
-  Open Source Projects, abd anything related to Crytocurrency, web3, or the blockchain
+  Open Source Projects, web3 or blockchain stuff, anything really. Always trying to learn more.
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/kristianfulkerson/" target="_blank">
