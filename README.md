@@ -83,10 +83,8 @@
 <p>
   Open Source Projects, abd anything related to Crytocurrency, web3, or the blockchain
 </p>
-
-<h2 align='center'> How to reach me: </h2>
 <p align='center'>
-  Click on one of the badges below!
+  Contact Me Below!
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/kristianfulkerson/" target="_blank">
