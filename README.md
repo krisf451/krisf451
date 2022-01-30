@@ -16,12 +16,12 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=krisf451&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<h2 align='center'>🔭 I’m currently working on ...</h2>
+<h2>🔭 I’m currently working on ...</h2>
 
-<p align='center'>A fullstack workout tracker application using react and nodejs</p>
-<p align='center'>A database for a home inventory application using postgreSQL</p>
+<p>A fullstack workout tracker application using react and nodejs</p>
+<p>A database for a home inventory application using postgreSQL</p>
 
-<h2 align='center'>My Tools...</h2>
+<h2>My Tools...</h2>
 
 <p>Communication:</p>
 <p>
@@ -74,14 +74,14 @@
   
 </p>
 
-<h2 align='center'>🌱 I’m currently learning ...</h2>
-<p align='center'>
+<h2>🌱 I’m currently learning ...</h2>
+<p>
   NextJs, Tailwind CSS, Data structures and Algorithms, Project Design and the MERN stack
 </p>
 
-<h2 align='center'>👯 I’m looking to collaborate on ...</h2>
-<p align='center'>
-  Open Source Projects, and anything related to Crytocurrency, web3, or the blockchain
+<h2>👯 I’m looking to collaborate on ...</h2>
+<p>
+  Open Source Projects, abd anything related to Crytocurrency, web3, or the blockchain
 </p>
 
 <h2 align='center'> How to reach me: </h2>
