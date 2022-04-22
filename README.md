@@ -76,12 +76,12 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 <p>
-  NextJs, Tailwind CSS, Data structures and Algorithms, Project Design and the MERN stack
+  NextJs, the MERN stack, Python, still Algorithms and Data structures, How to Find A Job
 </p>
 
 <h2>👯 I’m looking to collaborate on ...</h2>
 <p>
-  Open Source Projects, anything related to web3 or the blockchain
+  Open Source Projects, anything related to web3 or the blockchain, anything really, LETS NETWORK!
 </p>
 
 <h2 align='center'>Contact Me</h2>
