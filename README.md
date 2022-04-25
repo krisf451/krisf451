@@ -76,7 +76,7 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 <p>
-  NextJs, the MERN stack, Python, still Algorithms and Data structures, How to Find A Job
+  NextJs, the MERN stack, Python, Algorithms and Data structures
 </p>
 
 <h2>👯 I’m looking to collaborate on ...</h2>
