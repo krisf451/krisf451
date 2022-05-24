@@ -18,8 +18,8 @@
 
 <h2>🔭 I’m currently working on ...</h2>
 
-<p>A fullstack workout tracker application using react and nodejs</p>
-<p>A database for a home inventory application using postgreSQL</p>
+<p>A fullstack garage sale web app using NextJS</p>
+<p>Building and improving on basic python projects</p>
 
 <h2>My Tools...</h2>
 
@@ -76,12 +76,12 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 <p>
-  NextJs, the MERN stack, Python, Algorithms and Data structures
+  Python, Typescript, CSS Animations
 </p>
 
 <h2>👯 I’m looking to collaborate on ...</h2>
 <p>
-  Open Source Projects, anything related to web3 or the blockchain, anything really, LETS NETWORK!
+  Anything and everything, let's connect!
 </p>
 
 <h2 align='center'>Contact Me</h2>
