@@ -75,7 +75,7 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 <p>
-  Python, Typescript, CSS Animations
+  Vue3, MongoDB, FramerMotion
 </p>
 
 <h2>👯 I’m looking to collaborate on ...</h2>
