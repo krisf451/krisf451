@@ -18,8 +18,8 @@
 
 <h2>🔭 I’m currently working on ...</h2>
 
-<p>A fullstack garage sale web app using NextJS</p>
-<p>Building and improving on basic python projects</p>
+<p>Backend Skills, Mongodb</p>
+<p>Vue3</p>
 
 <h2>My Tools...</h2>
 
